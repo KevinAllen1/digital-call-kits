@@ -29,6 +29,7 @@ cd src/build
 zip -r $(tr '[:upper:]' '[:lower:]'<<<${1})Kit.zip ${1}/*
 mv $(tr '[:upper:]' '[:lower:]'<<<${1})Kit.zip ../../${1}
 
+mv ${1}/StartHere.pdf ${1}/FILES/StartHere.pdf
 
 # push any newer files in build directory to download zone
 for file in `ls ${1}/FILES`
