@@ -12,7 +12,7 @@ I wanted to drop a quick email in your inbox to remind you that Call for Code su
 
 You can register on the challenge platform and submit your project here:
 
-[ insert link provided by Daniel Krook ]
+[ insert link provided by the Call for Code team ]
 
 For those of you that joined us in our Call for Code Day, thank you! And those that did not, there's still time to form or join a team and get working on a submission. You're helping to show the world that developers have the power to affect real, positive change in society.
 
